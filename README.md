@@ -6,9 +6,9 @@ Material: PLA
 
 Arduino UNO x1
 
-SGG90S x1
+SG90S x1
 
-SGG90 x1
+SG90 x1
 
 Laser modul x1
 
