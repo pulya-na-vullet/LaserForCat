@@ -1,4 +1,4 @@
-# Laser_for_cat
+# Laser toy for cat
 
 <img width="372" alt="Laser_For_Cat" src="https://user-images.githubusercontent.com/61897393/169114587-1a7e5fc6-ca31-42e4-93e9-a6f50503b8fc.png">
 
